@@ -51,3 +51,10 @@ The program yields the win rates for every pair of AIs. A snippet from a test ru
 7. Biggest Card AI vs. Random Card AI winRate: 0.156 
 8. Biggest Card AI vs. Smallest Card AI winRate: 0.0 
 9. Biggest Card AI vs. Biggest Card AI winRate: 0.491
+
+
+*Note*: Exact outputs might differ since win rates are subject to randomness. For accurate results, it's recommended to set `nTrails` to at least 1000.
+
+---
+
+Feel free to delve into the code and perhaps even introduce your own strategies to see how they fare against the predefined ones. Enjoy the strategic showdown!

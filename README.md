@@ -42,3 +42,4 @@ The main purpose of this simulation is to evaluate the efficacy of these AI stra
 
 The program yields the win rates for every pair of AIs. A snippet from a test run:
 
+Random Card AI vs. Random Card AI winRate: 0.499 Random Card AI vs. Smallest Card AI winRate: 0.002 Random Card AI vs. Biggest Card AI winRate: 0.842 Smallest Card AI vs. Random Card AI winRate: 0.998 Smallest Card AI vs. Smallest Card AI winRate: 0.499 Smallest Card AI vs. Biggest Card AI winRate: 0.999 Biggest Card AI vs. Random Card AI winRate: 0.156 Biggest Card AI vs. Smallest Card AI winRate: 0.0 Biggest Card AI vs. Biggest Card AI winRate: 0.491
